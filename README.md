@@ -14,3 +14,5 @@ To load in the MSFT data, place the resulting MSFT.csv from above into the csv_d
 ```bash
 python scripts/dump_bin.py dump_all --csv_path  ~/.qlib/csv_data/MSFT.csv --qlib_dir ~/.qlib/qlib_data/MSFT.csv --include_fields v,vw,o,c,h,l,t,n,d --date_field_name t 
 ```
+
+Contributors/project members: Alexis Porter, Benjamin Liu and Daniel Wang
