@@ -1,4 +1,4 @@
-# 359 Group 2 Project
+# CATS (Constructing Algorithmic Trading Structures)
 
 ## MSFT Data Loading
 Attempting to load in the MSFT data without making any changes results in an error.
